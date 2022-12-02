@@ -32,14 +32,12 @@ A typing bot that autonomously completes most typing challenges from typing webs
 
 #### 3. Dependencies
  1. Install `python3-tk` and `python3-dev`
-    - Linux:
       
-          sudo apt-get install python3-tk python3-dev
+        sudo apt-get install python3-tk python3-dev
   
  2. Install Python Packages (`opencv`, `pyautogui`, `pytesseract`, `pyscreenshot`)
-    - Linux:
-
-          python3 -m pip install opencv-python pyautogui pytesseract pyscreenshot
+  
+        python3 -m pip install opencv-python pyautogui pytesseract pyscreenshot
 
 #### 3. Tesseract OCR Binaries/Models
  1.  Download [Tesseract](https://github.com/tesseract-ocr/tesseract) for your respective operating system.
