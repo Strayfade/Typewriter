@@ -1,5 +1,12 @@
 {
-    "TargetWPM": 100,
-    "TargetAccuracy": 95,
-    "MistakeReactionTime": 0.3
+    "TargetWPM": 175,
+    "TargetAccuracy": 97,
+    "MistakeReactionTime": 0.2,
+
+    "BBTopLeftX": 474,
+    "BBTopLeftY": 176,
+    "BBBottomRightX": 1445,
+    "BBBottomRightY": 456,
+
+    "DelayBeforeTyping": 1
 }
